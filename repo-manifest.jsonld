@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/csvs-to-sqlite/commit/33b79ed80a688ceae4486ebdcca28ae689f54c03",
       "git:hexsha": "33b79ed80a688ceae4486ebdcca28ae689f54c03",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.3.1"
     },
     {
